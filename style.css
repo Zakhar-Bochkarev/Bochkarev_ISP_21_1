@@ -1,0 +1,46 @@
+* {
+    font-weight: 400;
+    background-color: #DD8F2E;
+    overflow: hidden;
+    font-family: "Kanit", sans-serif;
+}
+
+.maintxt {
+    font-size: 50;
+    color: #2E1104;
+    text-align: center;
+    margin-bottom: 50;
+}
+
+.tusk {
+    font-size: 30;
+    margin-left: 3%;
+    margin-top: 10;
+}
+
+.tusk_name {
+    color: rgb(255, 230, 0);
+    font-size: 33;
+    margin-left: 3%;
+    margin-top: 10;
+}
+
+.tusk_next {
+    font-size: 30;
+    margin-top: 10;
+    margin-left: 3%;
+}
+
+.tusk_next_name {
+    color: rgb(255, 230, 0);
+    font-size: 33;
+    margin-top: 10;
+    margin-left: 3%;
+}
+
+.autor {
+    font-size: 30;
+    color: #2E1104;
+    margin-top: 20%;
+    text-align: center;
+}
