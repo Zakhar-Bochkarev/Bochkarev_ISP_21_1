@@ -1,0 +1,62 @@
+* {
+    font-weight: 400;
+    background-color: #fbf0fd;
+    /*overflow: hidden;*/
+    font-family: "Kanit", sans-serif;
+}
+
+
+.header_main {
+    font-size: 50;
+    color: #302f2f;
+    text-align: center;
+}
+
+.maintxt {
+    font-size: 50;
+    color: #f7f7f7;
+    margin-bottom: 50;
+}
+
+.tusk {
+    font-size: 30;
+    margin-left: 3%;
+    color: #1f1f1f;
+}
+
+.tusk_name {
+    color: #1f1f1f;
+    font-size: 33;
+    margin-left: 3%;
+    margin-top: 10;
+}
+
+.tusk_next {
+    font-size: 30;
+    margin-top: 10;
+    margin-left: 3%;
+    background-color: rgb(146, 1, 1);
+    width: 43%;
+    text-align: center;
+}
+
+.tusk_next_name {
+    color: #302f2f;
+    font-size: 33;
+    margin-top: 10;
+    margin-left: 3%;
+}
+
+.autor {
+    font-size: 30;
+    color: rgb(44, 44, 44);
+    margin-top: 20%;
+    text-align: center;
+}
+
+.lab_num {
+    margin-left: 3%;
+    margin-top: 3%;
+    color: rgb(26, 20, 20);
+    
+}
